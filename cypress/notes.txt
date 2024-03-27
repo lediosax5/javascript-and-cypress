@@ -1,0 +1,3 @@
+- seguir con otras partes de la pagina
+- otra forma de usar el origin, o remplazarlo?
+- npx cypress run --spec cypress/suits/01* --config baseurl=hola.com
